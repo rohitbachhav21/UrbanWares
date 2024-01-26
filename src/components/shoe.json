@@ -1,0 +1,157 @@
+
+    [
+        {
+            "id":1,
+            "text":"Just In",
+            "name":"Air Force 1 Mid Evo",
+            "price":"₹11000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/airforcemidevo.png",
+            "rating":"4.6"
+            
+        },
+        {
+            "id":2,
+            "text":"Just In",
+            "name":"Air Force 107",
+            "price":"₹12000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/airforce107.png",
+            "rating":"4.4"
+        },
+        {
+            "id":3,
+            "text":"Just In",
+            "name":"Jordan One Take 5 PF",
+            "price":"₹13000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/jordanonetake.png",
+            "rating":"4.3"
+        },
+        {
+            "id":4,
+            "text":"Just In",
+            "name":"Air Jordan Low PF",
+            "price":"₹14000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/airjordanlow.png",
+            "rating":"4.3"
+        },
+        {
+            "id":5,
+            "text":"Just In",
+            "name":"Air Jordan Low SE",
+            "price":"₹15000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/airjordanlowse.png",
+            "rating":"4.5"
+        },
+
+
+
+        {
+            "id":6,
+            "text":"Just In",
+            "name":"Nike Full Force Low",
+            "price":"₹11000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/nikefullforcelow.png",
+            "rating":"4.2"
+        },
+        {
+            "id":7,
+            "text":"Just In",
+            "name":"Nike Air Max Pulse Roam",
+            "price":"₹12000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/nikeairmaxplusroam.png",
+            "rating":"4.4"
+        },
+        {
+            "id":8,
+            "text":"Just In",
+            "name":"Nike Jordan Spizike Low",
+            "price":"₹13000",
+            "gender":"Men's Shoes",
+            "image":"./shoeimages/jordanspikelow.png",
+            "rating":"4.3"
+        },
+        {
+            "id":9,
+            "text":"Just In",
+            "name":"Nike Waffle Debut",
+            "price":"₹14000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikewaffledebut.png",
+            "rating":"4.5"
+        },
+        {
+            "id":10,
+            "text":"Just In",
+            "name":"Nike Cortez",
+            "price":"₹15000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikecortez.png",
+            "rating":"4.4"
+        },
+        {
+            "id":11,
+            "text":"Just In",
+            "name":"Nike Air Force 1 Wild",
+            "price":"₹15000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikeairforcewild.jpeg",
+            "rating":"4.4"
+        },
+        {
+            "id":12,
+            "text":"Just In",
+            "name":"Nike Zoom Mercurial Vapor 15 Academy KM MG",
+            "price":"₹15000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikezoom.png",
+            "rating":"4.4"
+        },
+        {
+            "id":13,
+            "text":"Just In",
+            "name":"Nike Air Force 1 Shadow",
+            "price":"₹15000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikeairforceshadow.png",
+            "rating":"4.4"
+        },
+        {
+            "id":14,
+            "text":"Just In",
+            "name":"Nike Jordan Stadium 90",
+            "price":"₹15000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikestadium90.png",
+            "rating":"4.4"
+        },
+        {
+            "id":15,
+            "text":"Just In",
+            "name":"Nike Air Force 1'07 LX",
+            "price":"₹15000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikeairforce07LX.png",
+            "rating":"4.4"
+        },
+        {
+            "id":16,
+            "text":"Just In",
+            "name":"Nike Dunk Low LX",
+            "price":"₹15000",
+            "gender":"Women's Shoes",
+            "image":"./shoeimages/nikedunklowlx.png",
+            "rating":"4.4"
+        }
+
+        
+        
+        
+        
+        
+    ]
